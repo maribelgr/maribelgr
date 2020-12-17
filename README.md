@@ -1,7 +1,7 @@
 
-## Hola!!👋 Cómo estás?!:blush:  Contacta conmigo!!:point_down::point_down:
+## Hola!!👋 Cómo estás?!:blush:  
 
-![Rosa Blanco Foto Salud Belleza Tienda Online Página Web](https://user-images.githubusercontent.com/70604477/102522396-78269a80-4096-11eb-8bb2-d4d7f650ccaa.png)
+![ReadMe GitHub](https://user-images.githubusercontent.com/70604477/102533337-934cd680-40a5-11eb-8504-e095a80db725.png)
 ___
 
 
