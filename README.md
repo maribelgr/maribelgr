@@ -22,6 +22,8 @@ ___
 ![js](https://user-images.githubusercontent.com/70604477/102541614-e8dab080-40b0-11eb-9fc3-d44ad6ed2d72.png)
 ![iconfinder_React js_logo_1174949](https://user-images.githubusercontent.com/70604477/102542347-f5abd400-40b1-11eb-81e8-7033ce9cdf1c.png)
 ![iconfinder_nodejs-new-pantone-black_1012818 (1)](https://user-images.githubusercontent.com/70604477/102544188-b468f380-40b4-11eb-8a0a-5796782ac2dc.png)
+![git-logo-36 (1)](https://user-images.githubusercontent.com/70604477/102544926-d57e1400-40b5-11eb-8f1d-462e72aa6e8d.png)
+
 
 
 
