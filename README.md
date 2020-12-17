@@ -23,6 +23,17 @@ ___
 ![iconfinder_React js_logo_1174949](https://user-images.githubusercontent.com/70604477/102542347-f5abd400-40b1-11eb-81e8-7033ce9cdf1c.png)
 ![iconfinder_nodejs-new-pantone-black_1012818 (1)](https://user-images.githubusercontent.com/70604477/102544188-b468f380-40b4-11eb-8a0a-5796782ac2dc.png)
 ![git-logo-36 (1)](https://user-images.githubusercontent.com/70604477/102544926-d57e1400-40b5-11eb-8f1d-462e72aa6e8d.png)
+___
+
+
+### :computer: Proyectos en los que he trabajado
+
+
+- :art: [**FRIDA KARDS**](https://github.com/maribelgr/project-promo-k-module-2-team-8) Aplicación web que nos permite crear una tarjeta de visita personalizada de forma interactiva. Desarrollada con HTML5, Sass y JavaScript.
+
+- :ocean: [**MAREA CODERS**](https://github.com/maribelgr/project-promo-k-module-1-team-7) Web grupal responsive para presentar a un equipo de programadoras. Desarrollada en HTML5, Flexbox, Grid y Sass.
+
+
 
 
 
