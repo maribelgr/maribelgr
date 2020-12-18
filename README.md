@@ -55,31 +55,9 @@ ___
 ### :heart_eyes: Intereses :smirk:
 
 
-🌱 Estoy realmente interesada en adquirir conocimientos en **diseño UX y UI**, me resulta un mundo fascinante para explotar la creatividad :sparkles:
+🌱 Estoy realmente interesada en adquirir conocimientos en **diseño UX y UI**, me resulta un mundo fascinante para explotar la creatividad... es mi próximo objetivo! :sparkles:
 
 🔭 Me encanta practicar **deporte** y realizar actividades al aire libre y en la **naturaleza** :dog::sunrise_over_mountains:
 
 :musical_score: Soy una apasionada de la **música**, me encanta (re)descubrir **BSO's** y compositores de música New Age :musical_keyboard:
 ___
-
-
-
-
-
-
-
-
-<!--
-**maribelgr/maribelgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
