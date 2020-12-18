@@ -29,13 +29,26 @@ ___
 ### :computer: Proyectos en los que he trabajado
 
 
-- :art: [**FRIDA KARDS**](https://github.com/maribelgr/project-promo-k-module-2-team-8) Aplicación web que nos permite crear una tarjeta de visita personalizada de forma interactiva. Desarrollada con HTML5, Sass y JavaScript.
+- :art: [**FRIDA KARDS**](https://github.com/maribelgr/project-promo-k-module-2-team-8)  Aplicación web que nos permite crear una tarjeta de visita personalizada de forma interactiva. Desarrollada con HTML5, Sass y JavaScript.
 
-- :ocean: [**MAREA CODERS**](https://github.com/maribelgr/project-promo-k-module-1-team-7) Web grupal responsive para presentar a un equipo de programadoras. Desarrollada en HTML5, Flexbox, Grid y Sass.
+- :ocean: [**MAREA CODERS**](https://github.com/maribelgr/project-promo-k-module-1-team-7)  Web grupal responsive para presentar a un equipo de programadoras. Desarrollada en HTML5, Flexbox, Grid y Sass.
 
-- :space_invader: [**RICK AND MORTY**](https://github.com/maribelgr/rick-and-morty-characters-finder) Aplicación web que permite buscar personajes de la serie Rick and Morty a través de una API. Desarrollada con HTML5, Sass y React.
+- :space_invader: [**RICK AND MORTY**](https://github.com/maribelgr/rick-and-morty-characters-finder)  Aplicación web que permite buscar personajes de la serie Rick and Morty a través de una API. Desarrollada con HTML5, Sass y React.
 
-- :tv: [**BUSCADOR DE SERIES**](https://github.com/maribelgr/series-finder) Aplicación web de búsqueda de series de TV, permite marcar y desmarcar las series como favoritas y guardarlas en localStorage. Desarrollada con HTML5, Sass y JavaScript.
+- :tv: [**BUSCADOR DE SERIES**](https://github.com/maribelgr/series-finder)  Aplicación web de búsqueda de series de TV, permite marcar y desmarcar las series como favoritas y guardarlas en localStorage. Desarrollada con HTML5, Sass y JavaScript.
+
+- :crystal_ball: [**ADIVINA EL NÚMERO**](https://maribelgr.github.io/modulo-2-evaluacion-intermedia-maribelgr/)  Página web con un juego de "Adivinar el número". El juego consiste en que el programa genera un número al azar entre 1 y 100, y el jugador tiene que adivinarlo. Desarrollada con HTML5, CSS3 y JavaScript.
+___
+
+
+### :calling: Contacta conmigo!!
+
+
+- ![icons8-mail-22](https://user-images.githubusercontent.com/70604477/102568457-cf069100-40e3-11eb-86b1-6771b15d192f.png) [**mgrageraruiz@gmail.com**](mailto:mgrageraruiz@gmail.com)
+
+- ![icons8-linkedin-22 (1)](https://user-images.githubusercontent.com/70604477/102568447-cca43700-40e3-11eb-8046-01e41492ca7c.png) [**linkedin.com/in/mgrageraruiz/**](https://www.linkedin.com/in/mgrageraruiz/)
+
+- ![icons8-twitter-22](https://user-images.githubusercontent.com/70604477/102568462-d168eb00-40e3-11eb-81ce-511b5e2a2472.png) [**twitter.com/mmaribelgr**](https://twitter.com/mmaribelgr)
 
 
 
