@@ -55,7 +55,7 @@ ___
 ### :heart_eyes: Intereses :smirk:
 
 
-🌱 Estoy realmente interesada en adquirir conocimientos en **diseño UX y UI**, me resulta un mundo fascinante para explotar la creatividad... es mi próximo objetivo! :sparkles:
+🌱 Estoy realmente interesada en adquirir conocimientos en **diseño UX/UI**, me resulta un mundo fascinante para explotar la creatividad... es mi próximo objetivo! :sparkles:
 
 🔭 Me encanta practicar **deporte** y realizar actividades al aire libre y en la **naturaleza** :dog::sunrise_over_mountains:
 
