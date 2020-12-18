@@ -49,9 +49,18 @@ ___
 - ![icons8-linkedin-22 (1)](https://user-images.githubusercontent.com/70604477/102568447-cca43700-40e3-11eb-8046-01e41492ca7c.png) [**linkedin.com/in/mgrageraruiz/**](https://www.linkedin.com/in/mgrageraruiz/)
 
 - ![icons8-twitter-22](https://user-images.githubusercontent.com/70604477/102568462-d168eb00-40e3-11eb-81ce-511b5e2a2472.png) [**twitter.com/mmaribelgr**](https://twitter.com/mmaribelgr)
+___
 
 
+### :heart_eyes: Intereses :smirk:
 
+
+🌱 Estoy realmente interesada en adquirir conocimientos en **diseño UX y UI**, me resulta un mundo fascinante para explotar la creatividad :sparkles:
+
+🔭 Me encanta practicar **deporte** y realizar actividades al aire libre y en la **naturaleza** :dog::sunrise_over_mountains:
+
+:musical_score: Soy una apasionada de la **música**, me encanta (re)descubrir **BSO's** y compositores de música New Age :musical_keyboard:
+___
 
 
 
