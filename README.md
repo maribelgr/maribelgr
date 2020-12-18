@@ -33,6 +33,11 @@ ___
 
 - :ocean: [**MAREA CODERS**](https://github.com/maribelgr/project-promo-k-module-1-team-7) Web grupal responsive para presentar a un equipo de programadoras. Desarrollada en HTML5, Flexbox, Grid y Sass.
 
+- :space_invader: [**RICK AND MORTY**](https://github.com/maribelgr/rick-and-morty-characters-finder) Buscador de personajes de la serie Rick and Morty a través de una API. Desarrollada con React.
+
+
+
+
 
 
 
